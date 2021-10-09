@@ -2,7 +2,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         """
         カッコの閉じ方が正しければTure。
-        文字列をリストに入れ、閉じカッコはリストの最後尾をとの整合を検証する。
+        文字列をリストに入れ、閉じカッコはリストの最後尾との整合を検証する。
         from LEETCODE (20. Valid Parentheses)
         https://leetcode.com/problems/valid-parentheses/
         """
